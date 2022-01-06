@@ -1,5 +1,6 @@
 {
-  "name": "project1",
+  "name": "bookmark",
+  "homepage": "https://daniekeys-bookmark.netlify.app/",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
